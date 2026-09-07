@@ -38,7 +38,7 @@ Sample: 2002-05-31 to 2026-04-30, 288 monthly observations.
 | Skew | −0.52 | −0.45 |
 | Annualised turnover | 1.58 | 1.96 |
 
-![Equity curves](equity_curve.png)
+<img width="821" height="618" alt="equity_curve" src="https://github.com/user-attachments/assets/5bb53f7a-fe56-43bd-ad07-bf809bf7d026" />
 
 The curve compounds steadily from 2002 to 2007, falls sharply into early 2009, then moves broadly sideways for a decade as G10 rate differentials compressed under near-zero policy rates. It turns up again from around 2021 as the Federal Reserve raised rates ahead of the ECB and the Bank of Japan.
 
